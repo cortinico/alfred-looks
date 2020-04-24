@@ -28,11 +28,11 @@ jobs:
       - name: Install kscript
         run: sdk install kscript
       - name: Run script
-        run: kscript scaffolded-script.kts
+        run: kscript alfred-looks.kts
       - name: Bundle script
-        run: kscript --package scaffolded-script.kts
+        run: kscript --package alfred-looks.kts
 
       - uses: actions/upload-artifact@v1
         with:
-          name: scaffolded-script
-          path: ./scaffolded-script
+          name: alfred-looks
+          path: ./alfred-looks
