@@ -1,0 +1,3 @@
+[submodule "looks.wtf"]
+	path = looks.wtf
+	url = git@github.com:leighmcculloch/looks.wtf.git
