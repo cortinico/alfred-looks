@@ -5,6 +5,8 @@
 ![logo](https://github.com/cortinico/alfred-looks/blob/master/icon.png?raw=true)
 
 [![-(⌐■__■)](https://img.shields.io/badge/-(%E2%8C%90%E2%96%A0__%E2%96%A0)-black)](https://github.com/cortinico/alfred-looks) [![download](https://img.shields.io/badge/alfredsnippets-download-orange)](https://github.com/cortinico/alfred-looks/blob/master/looks-wtf.alfredsnippets) ![Run Script](https://github.com/cortinico/alfred-looks/workflows/Run%20Script/badge.svg) ![License](https://img.shields.io/github/license/cortinico/alfred-looks.svg) [![Use this template](https://img.shields.io/badge/from-kscript--template-brightgreen?logo=dropbox)](https://github.com/cortinico/kscript-template/generate) ![Language](https://img.shields.io/github/languages/top/cortinico/alfred-looks?color=blue&logo=kotlin)
+
+<img src="https://i.imgur.com/xpMEMCh.gif" alt="alfred looks sample"/>
 </p>
 
 A collection of snippets from [looks.wtf](https://looks.wtf/) to be used with [Alfred 4](https://www.alfredapp.com/).
