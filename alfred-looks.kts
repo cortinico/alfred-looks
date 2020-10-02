@@ -1,7 +1,7 @@
 #!/usr/bin/env kscript
 @file:DependsOn("com.esotericsoftware.yamlbeans:yamlbeans:1.13")
 @file:DependsOn("com.squareup.moshi:moshi-kotlin:1.9.2")
-@file:DependsOn("info.picocli:picocli:4.2.0")
+@file:DependsOn("info.picocli:picocli:4.3.2")
 
 import com.esotericsoftware.yamlbeans.YamlReader
 import com.squareup.moshi.JsonAdapter
